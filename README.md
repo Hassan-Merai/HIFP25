@@ -47,4 +47,4 @@ In summary, a key indicator is how much of the budget per patient is spent by th
 - Add monitoring with Prometheus + Grafana
 
 ## 👥 Team
-Built collaboratively by two data scientists over in a remote Agile setting, with GitHub and VS Code for collaboration and EC2 for shared compute.
+Built collaboratively by two data scientists (Jan0341 and Hassan-Merai) in a remote Agile setting, with GitHub and VS Code for collaboration and EC2 for shared compute.
