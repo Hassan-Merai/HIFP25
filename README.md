@@ -32,3 +32,19 @@ We used XGBoost as the main machine learning algorithm and Apache Airflow for wo
 We used SHAP to analyse the influence of the variables on the target variable. The most important variables for determining fraudulent behaviour are all variables that are directly related to money and budgets.
 
 In summary, a key indicator is how much of the budget per patient is spent by the provider. If it is on average, this lowers the probability of fraudulent behaviour. If it deviates strongly from the mean, this increases the probability of fraudulent behaviour.
+## 💼 Why This Project Stands Out
+
+✅ Built to mimic **real-world enterprise workflows**  
+✅ Touches **all stages of the ML lifecycle**  
+✅ Shows hands-on skills in **modern MLOps**  
+✅ Cloud-ready and production-grade  
+✅ **Team project** with clearly documented components
+
+## 📈 Future Enhancements
+- Add real-time fraud streaming with Apache Kafka  
+- Integrate ICD-10 for medical condition mapping  
+- Deploy to AWS SageMaker or GCP Vertex AI  
+- Add monitoring with Prometheus + Grafana
+
+## 👥 Team
+Built collaboratively by two data scientists over in a remote Agile setting, with GitHub and VS Code for collaboration and EC2 for shared compute.
